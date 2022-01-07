@@ -9,5 +9,3 @@ request = req.get(url).text
 print(request)
 
 # TDOD: Properly scrap data and store to local DB.
-
-
