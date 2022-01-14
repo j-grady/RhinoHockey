@@ -1,0 +1,433 @@
+[
+  {
+    "SeasonType": "CRL WINTER PLAYOFFS",
+    "Seasons": [
+      {
+        "SeasonStats": "20-21 CRL Winter Playoffs All Player Stats",
+        "SeasonStatsUrl": "https://www.rhinohockeysiouxfalls.com/20-21-crl-winter-playoffs-all-player-stats/",
+        "Teams": []
+      }
+    ]
+  },
+  {
+    "SeasonType": "CRL SUMMER PLAYOFFS",
+    "Seasons": [
+      {
+        "SeasonStats": "2021 CRL Summer Playoffs Stats",
+        "SeasonStatsUrl": "https://www.rhinohockeysiouxfalls.com/2021-crl-summer-playoffs-stats/",
+        "Teams": []
+      },
+      {
+        "SeasonStats": "2020 CRL SUMMER PLAYOFFS",
+        "SeasonStatsUrl": "https://www.rhinohockeysiouxfalls.com/2020-crl-summer-playoffs-2/",
+        "Teams": []
+      }
+    ]
+  },
+  {
+    "SeasonType": "CRL Winter Seasons",
+    "Seasons": [
+      {
+        "SeasonStats": "21-22 CRL WINTER LEAGUE STATS",
+        "SeasonStatsUrl": "https://www.rhinohockeysiouxfalls.com/21-22-crl-winter-league-stats/",
+        "Teams": [
+          {
+            "TeamName": "21-22 CAPITALS WINTER TEAM STATS",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/21-22-capitals-winter-team-stats/"
+          },
+          {
+            "TeamName": "21-22 DRAGONS WINTER TEAM STATS",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/21-22-dragons-winter-team-stats/"
+          },
+          {
+            "TeamName": "21-22 HAWKS WINTER TEAM STATS",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/21-22-hawks-winter-team-stats/"
+          },
+          {
+            "TeamName": "21-22 KNIGHTS WINTER TEAM STATS",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/21-22-knights-winter-team-stats/"
+          },
+          {
+            "TeamName": "21-22 RHINOS WINTER TEAM STATS",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/21-22-rhinos-winter-team-stats/"
+          },
+          {
+            "TeamName": "21-22 STARS WINTER TEAM STATS",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/21-22-stars-winter-team-stats/"
+          },
+          {
+            "TeamName": "21-22 TIMBERS WINTER TEAM STATS",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/21-22-timbers-winter-team-stats/"
+          },
+          {
+            "TeamName": "21-22 YETIS WINTER TEAM STATS",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/21-22-yetis-winter-team-stats/"
+          }
+        ]
+      },
+      {
+        "SeasonStats": "20-21 CRL Winter Team & Player Stats",
+        "SeasonStatsUrl": "https://www.rhinohockeysiouxfalls.com/20-21-crl-winter-team-player-stats/",
+        "Teams": [
+          {
+            "TeamName": "20-21 CRL DRAGONS WINTER TEAM STATS",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/20-21-crl-dragons-winter-team-stats/"
+          },
+          {
+            "TeamName": "20-21 CRL HAWKS WINTER TEAM STATS",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/20-21-crl-hawks-winter-team-stats/"
+          },
+          {
+            "TeamName": "20-21 CRL KNIGHTS WINTER TEAM STATS",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/20-21-crl-knights-winter-team-stats/"
+          },
+          {
+            "TeamName": "20-21- CRL RHINOS WINTER TEAM STATS",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/20-21-crl-rhinos-winter-team-stats/"
+          },
+          {
+            "TeamName": "20-21 CRL STARS WINTER TEAM STATS",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/20-21-crl-stars-winter-team-stats/"
+          },
+          {
+            "TeamName": "20-21 CRL YETIS WINTER TEAM STATS",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/20-21-crl-yetis-winter-team-stats/"
+          }
+        ]
+      },
+      {
+        "SeasonStats": "2019-20 CRL Winter Player Lists",
+        "SeasonStatsUrl": "https://www.rhinohockeysiouxfalls.com/2019-20-crl-winter-player-lists/",
+        "Teams": [
+          {
+            "TeamName": "2019-20 CRL Dragons Winter Team",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2019-20-crl-dragons-winter-team/"
+          },
+          {
+            "TeamName": "2019-20 CRL Hawks Winter Team",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2019-20-crl-hawks-winter-team/"
+          },
+          {
+            "TeamName": "2019-20 Knights Winter Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2019-20-crl-knights-winter/"
+          },
+          {
+            "TeamName": "2019-20 CRL Yeti’s Winter Team",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2019-20-crl-yetis-winter-team/"
+          }
+        ]
+      },
+      {
+        "SeasonStats": "2018-19 CRL Winter Session Stats",
+        "SeasonStatsUrl": "https://www.rhinohockeysiouxfalls.com/2018-19-crl-winter-session-stats/",
+        "Teams": [
+          {
+            "TeamName": "2018-19 Green Stars Winter Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2018-19-green-stars-winter-team-stats/"
+          },
+          {
+            "TeamName": "2018-19 Hawks Winter Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2018-19-hawks-winter-team-stats/"
+          },
+          {
+            "TeamName": "2018-19 Knights Winter Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2018-19-knights-winter-team-stats/"
+          },
+          {
+            "TeamName": "2018-19 Silverbacks Winter Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2018-19-silverbacks-winter-team-stats/"
+          }
+        ]
+      },
+      {
+        "SeasonStats": "2017-18 CRL Winter Season Stats",
+        "SeasonStatsUrl": "https://www.rhinohockeysiouxfalls.com/2017-18-cenior-rhino-winter-season/",
+        "Teams": [
+          {
+            "TeamName": "2017-18 Winter Timbers",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2017-18-cenior-rhino-winter-timbers/"
+          },
+          {
+            "TeamName": "2017-18 Winter Green Stars Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2017-18-green-stars-winter-session/"
+          },
+          {
+            "TeamName": "2017-18 Knights Winter Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2017-18-winter-silverbacks/"
+          },
+          {
+            "TeamName": "2017-18 Winter Yaks Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2017-19-cenior-rhino-winter-yaks/"
+          }
+        ]
+      },
+      {
+        "SeasonStats": "2016-17 CRL Winter Standings",
+        "SeasonStatsUrl": "https://www.rhinohockeysiouxfalls.com/2016-17-crl-winter-standings/",
+        "Teams": [
+          {
+            "TeamName": "2016-17 Winter Green Stars Player Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2016-17-cenior-rhino-winter-green-stars/"
+          },
+          {
+            "TeamName": "2016-17 Winter Rhinos Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2016-17-cenior-rhino-league-winter-rhinos/"
+          },
+          {
+            "TeamName": "2016-17 Winter Timbers Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2016-17-cenior-rhino-winter-timbers/"
+          },
+          {
+            "TeamName": "2016-17 Winter Yaks Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2016-17-cenior-rhino-winter-yaks/"
+          }
+        ]
+      },
+      {
+        "SeasonStats": "2015-16 Cenior Rhino Winter Stats & Standings",
+        "SeasonStatsUrl": "https://www.rhinohockeysiouxfalls.com/2015-16-cenior-rhino-winter-home/",
+        "Teams": [
+          {
+            "TeamName": "2015-16 Green Stars Winter Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2015-16-cenior-rhino-winter-green-stars/"
+          },
+          {
+            "TeamName": "2015-16 Rhinos Winter Player Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/15-16-cenior-rhino-winter-rhinos/"
+          },
+          {
+            "TeamName": "2015-16 Timbers Winter Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2015-16-cenior-rhino-winter-timbers/"
+          },
+          {
+            "TeamName": "2015-16 Winter White Stars",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2015-16-cenior-rhino-winter-white-stars/"
+          },
+          {
+            "TeamName": "2015-16 Winter Yaks",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2015-16-cenior-rhino-winter-yaks/"
+          }
+        ]
+      },
+      {
+        "SeasonStats": "2014-15 CRL Winter Team & Players Stats",
+        "SeasonStatsUrl": "https://www.rhinohockeysiouxfalls.com/2014-15-crl-winter-team-players-stats/",
+        "Teams": [
+          {
+            "TeamName": "2014-15 Green Stars Winter Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2014-15-winter-g-stars-player-stats/"
+          },
+          {
+            "TeamName": "2014-15 Rhinos Winter Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2014-15-winter-rhinos-player-stats/"
+          },
+          {
+            "TeamName": "2014-15 Timbers Winter Player Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2014-15-winter-timbers-player-stats/"
+          },
+          {
+            "TeamName": "2014-15 Yaks Winter Player Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2014-15-winter-yaks-player-stats/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "SeasonType": "CRL Spring Session",
+    "Seasons": [
+      {
+        "SeasonStats": "2021 CRL SUMMER TEAM STATS",
+        "SeasonStatsUrl": "https://www.rhinohockeysiouxfalls.com/2021-crl-summer-team-stats/",
+        "Teams": [
+          {
+            "TeamName": "2021 CRL DRAGONS SUMMER STATS",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2021-crl-dragons-summer-session/"
+          },
+          {
+            "TeamName": "2021 CRL GREEN STARS SUMMER STATS",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2021-crl-green-stars-summer-stats/"
+          },
+          {
+            "TeamName": "2021 CRL HAWKS SUMMER STATS",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2021-crl-hawks-summer-stats/"
+          },
+          {
+            "TeamName": "2021 CRL KNIGHTS SUMMER STATS",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2021-crl-knights-summer-stats/"
+          },
+          {
+            "TeamName": "2021 Rhinos CRL Summer Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2021-rhinos-crl-summer-team-stats/"
+          },
+          {
+            "TeamName": "2021 CRL YETIS SUMMER STATS",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2021-crl-yetis/"
+          }
+        ]
+      },
+      {
+        "SeasonStats": "2020 CRL Spring Team & Player Stats",
+        "SeasonStatsUrl": "https://www.rhinohockeysiouxfalls.com/2020-crl-spring-team-player-stats/",
+        "Teams": [
+          {
+            "TeamName": "2020 CRL Knights Spring",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2020-crl-knights-spring/"
+          },
+          {
+            "TeamName": "2020 CRL Hawks Spring",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2020-crl-hawks-spring/"
+          },
+          {
+            "TeamName": "2020 CRL W-Stars Spring",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2020-crl-w-stars-spring/"
+          },
+          {
+            "TeamName": "2020 CRL Yeti’s Spring",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2020-crl-yetis-spring/"
+          }
+        ]
+      },
+      {
+        "SeasonStats": "2019 CRL Spring Team and Player Stats",
+        "SeasonStatsUrl": "https://www.rhinohockeysiouxfalls.com/2019-crl-spring-all-plaers/",
+        "Teams": [
+          {
+            "TeamName": "2019 CRL Dragons Spring Team",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2019-crl-dragons-spring-team/"
+          },
+          {
+            "TeamName": "2019 CRL Hawks Spring Team",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2019-crl-hawks-spring-team/"
+          },
+          {
+            "TeamName": "2019 CRL Knights Spring Team",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2019-crl-knights-spring-team/"
+          },
+          {
+            "TeamName": "2019 CRL Yeti’s Spring Team",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2019-crl-yetis-spring-team/"
+          }
+        ]
+      },
+      {
+        "SeasonStats": "2018 CRL  Spring Season",
+        "SeasonStatsUrl": "https://www.rhinohockeysiouxfalls.com/2018-cenior-rhino-spring-season/",
+        "Teams": [
+          {
+            "TeamName": "2018 Spring Knights",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2018-spring-knights/"
+          },
+          {
+            "TeamName": "2018 Spring Hawks",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2018-spring-hawks/"
+          },
+          {
+            "TeamName": "2018 Spring W-Stars",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2018-spring-w-stars/"
+          },
+          {
+            "TeamName": "2018 Spring Yaks",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2018-spring-yaks/"
+          }
+        ]
+      },
+      {
+        "SeasonStats": "2017 CRL Spring Season All Players Stats",
+        "SeasonStatsUrl": "https://www.rhinohockeysiouxfalls.com/2017-cenior-rhino-spring-season/",
+        "Teams": [
+          {
+            "TeamName": "2017 CRL Spring G-Stars",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2017-crl-spring-g-stars/"
+          },
+          {
+            "TeamName": "2017 CRL Spring Timbers",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2017-crl-spring-timbers/"
+          },
+          {
+            "TeamName": "2017 CRL Spring Rhinos",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2017-crl-spring/"
+          },
+          {
+            "TeamName": "2017 CRL Spring Yaks",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2017-crl-spring-yaks/"
+          }
+        ]
+      },
+      {
+        "SeasonStats": "2016 Rhino Spring All Players Stats",
+        "SeasonStatsUrl": "https://www.rhinohockeysiouxfalls.com/2016-cenior-rhino-spring-season/",
+        "Teams": [
+          {
+            "TeamName": "2016 Knights Spring Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2016-cenior-rhino-spring-golden-knights/"
+          },
+          {
+            "TeamName": "2016 Spring Green Stars",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2016-cenior-rhino-spring-season/2016-cenior-rhino-spring-green-stars/"
+          },
+          {
+            "TeamName": "2016 Rhinos Spring",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2016-cenior-rhino-spring-rhinos/"
+          },
+          {
+            "TeamName": "2016 Spring Timbers",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2016-cenior-rhino-spring-timbers/"
+          },
+          {
+            "TeamName": "2016 CRL Yaks Spring",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2016-crl-yaks-spring/"
+          },
+          {
+            "TeamName": "2016 Spring White Stars",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2016-cenior-rhino-spring-white-stars/"
+          }
+        ]
+      },
+      {
+        "SeasonStats": "2015 CRL Spring League Stats",
+        "SeasonStatsUrl": "https://www.rhinohockeysiouxfalls.com/2015-crl-spring-league-stats/",
+        "Teams": [
+          {
+            "TeamName": "2015 Green Stars Spring Player Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2015-crl-g-stars-spring/"
+          },
+          {
+            "TeamName": "2015 Rhinos Spring Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2015-crl-rhinos-team-spring-stats/"
+          },
+          {
+            "TeamName": "2015 Timbers Spring Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2015-timbers-spring-team-stats/"
+          },
+          {
+            "TeamName": "2015 Yaks Spring Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2015-yaks-spring-team-stats/"
+          }
+        ]
+      },
+      {
+        "SeasonStats": "2014 CRL Spring Team & Player Stats",
+        "SeasonStatsUrl": "https://www.rhinohockeysiouxfalls.com/2014-crl-spring-team-player-stats/",
+        "Teams": [
+          {
+            "TeamName": "2014 Lightening CRL Spring Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2014-lightening-crl-spring-team-stats/"
+          },
+          {
+            "TeamName": "2014 Rhinos CRL Spring Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2014-rhinos-crl-spring-team-stats/"
+          },
+          {
+            "TeamName": "2014 Timbers CRL Spring Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2014-timbers-crl-spring-team-stats/"
+          },
+          {
+            "TeamName": "2014 Yaks CRL Spring Team Stats",
+            "TeamUrl": "https://www.rhinohockeysiouxfalls.com/2014-yaks-crl-spring-team-stats/"
+          }
+        ]
+      }
+    ]
+  }
+]
